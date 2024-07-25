@@ -1,0 +1,88 @@
+2024-07-25 02:10:43,436 INFO  [Log] Logo is Visible 
+2024-07-25 02:12:38,348 INFO  [Log] Logo is Visible 
+2024-07-25 02:12:38,371 ERROR [Log] Logo is Visible 
+2024-07-25 02:19:29,741 INFO  [Log] Logo is Correct 
+2024-07-25 02:19:30,159 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 02:19:31,340 INFO  [Log] List of Product --  
+2024-07-25 02:21:35,404 INFO  [Log] Logo is Correct 
+2024-07-25 02:21:35,965 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 02:21:36,846 INFO  [Log] List of Product --  
+2024-07-25 02:23:11,059 INFO  [Log] Logo is Correct 
+2024-07-25 02:23:11,811 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 02:23:12,887 INFO  [Log] List of Product --  
+2024-07-25 08:22:06,365 INFO  [Log] Logo is Correct 
+2024-07-25 08:22:06,749 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:22:07,670 INFO  [Log] List of Product --  
+2024-07-25 08:22:14,600 INFO  [Log] Visit to the Store Link Clicked 
+2024-07-25 08:24:58,606 ERROR [Log] Logo is incorrect 
+2024-07-25 08:25:07,059 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:25:08,312 INFO  [Log] List of Product --  
+2024-07-25 08:25:15,100 INFO  [Log] Visit to the Store Link Clicked 
+2024-07-25 08:25:16,932 INFO  [Log] Correct Product Searched 
+2024-07-25 08:29:41,319 INFO  [Log] Logo is Correct 
+2024-07-25 08:29:41,740 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:29:42,909 INFO  [Log] List of Product --  
+2024-07-25 08:29:49,759 INFO  [Log] Visit to the Store Link Clicked 
+2024-07-25 08:29:51,803 INFO  [Log] Correct Product Searched 
+2024-07-25 08:35:34,542 INFO  [Log] Logo is Correct 
+2024-07-25 08:35:35,285 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:35:36,137 INFO  [Log] List of Product --  
+2024-07-25 08:35:44,674 INFO  [Log] Correct Product Searched 
+2024-07-25 08:38:39,652 INFO  [Log] Logo is Correct 
+2024-07-25 08:38:40,004 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:38:51,808 INFO  [Log] List of Product --  
+2024-07-25 08:44:57,546 INFO  [Log] Logo is Correct 
+2024-07-25 08:45:55,703 INFO  [Log] Logo is Correct 
+2024-07-25 08:48:01,041 INFO  [Log] Logo is Correct 
+2024-07-25 08:48:01,763 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:48:48,045 INFO  [Log] Logo is Correct 
+2024-07-25 08:48:48,917 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:49:41,834 INFO  [Log] Logo is Correct 
+2024-07-25 08:49:42,545 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:51:13,577 INFO  [Log] Logo is Correct 
+2024-07-25 08:51:56,591 INFO  [Log] Logo is Correct 
+2024-07-25 08:51:57,261 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:52:22,239 INFO  [Log] Logo is Correct 
+2024-07-25 08:53:08,965 INFO  [Log] Logo is Correct 
+2024-07-25 08:53:09,624 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:59:08,168 INFO  [Log] Logo is Correct 
+2024-07-25 08:59:08,860 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 08:59:48,800 INFO  [Log] Logo is Correct 
+2024-07-25 08:59:49,954 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:04:00,159 ERROR [Log] Exception while reading config filesrc/test/resources/config/config.properties (No such file or directory) 
+2024-07-25 09:04:09,918 INFO  [Log] Logo is Correct 
+2024-07-25 09:04:10,655 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:07:48,208 ERROR [Log] Exception while reading config filesrc/test/resources/config/config.properties (No such file or directory) 
+2024-07-25 09:07:57,403 INFO  [Log] Logo is Correct 
+2024-07-25 09:07:58,233 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:11:11,629 ERROR [Log] Exception while reading config filesrc/test/resources/config/config.properties (No such file or directory) 
+2024-07-25 09:11:21,897 INFO  [Log] Logo is Correct 
+2024-07-25 09:11:22,703 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:12:10,568 INFO  [Log] Logo is Correct 
+2024-07-25 09:12:11,248 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:18:32,790 INFO  [Log] Launching Browser - chrome 
+2024-07-25 09:18:32,799 INFO  [Log] Headless - false 
+2024-07-25 09:20:45,387 INFO  [Log] Launching Browser - chrome 
+2024-07-25 09:20:45,428 INFO  [Log] Headless - false 
+2024-07-25 09:20:54,383 INFO  [Log] Logo is Correct 
+2024-07-25 09:20:55,070 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:22:13,131 INFO  [Log] Launching Browser - chrome 
+2024-07-25 09:22:13,141 INFO  [Log] Headless - false 
+2024-07-25 09:22:25,761 INFO  [Log] Logo is Correct 
+2024-07-25 09:22:26,893 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:23:33,146 INFO  [Log] Launching Browser - chrome 
+2024-07-25 09:23:33,155 INFO  [Log] Headless - false 
+2024-07-25 09:23:44,202 INFO  [Log] Logo is Correct 
+2024-07-25 09:23:45,039 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:24:14,401 INFO  [Log] Launching Browser - chrome 
+2024-07-25 09:24:14,412 INFO  [Log] Headless - false 
+2024-07-25 09:24:26,820 INFO  [Log] Logo is Correct 
+2024-07-25 09:24:27,714 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:25:04,507 INFO  [Log] Launching Browser - chrome 
+2024-07-25 09:25:04,524 INFO  [Log] Headless - false 
+2024-07-25 09:25:15,743 INFO  [Log] Logo is Correct 
+2024-07-25 09:25:16,606 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 09:27:17,131 INFO  [Log] Launching Browser - chrome 
+2024-07-25 09:27:17,143 INFO  [Log] Headless - false 
+2024-07-25 09:27:29,090 INFO  [Log] Logo is Correct 
+2024-07-25 09:27:29,991 INFO  [Log] Product IPhone 13 is searched Successfully 
