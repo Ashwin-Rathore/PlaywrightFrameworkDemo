@@ -1,13 +1,12 @@
+/**
+ * Author : Ashwin Rathore
+ * Date : 25-07-2024
+ * Email - ashwin.rathore001@gmail.com
+ */
 package com.pages.applicationPages.amazon;
 
 import com.microsoft.playwright.Page;
 
-/**
- * Create By : Ashwin Rathore on 24/07/24
- *
- * @author : arathore@tracelin.com
- * @date :  24/07/24
- */
 public class ProductPage {
 
     public ProductPage(Page page) {

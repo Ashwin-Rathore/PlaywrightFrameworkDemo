@@ -1,10 +1,9 @@
 package applications.amazon;
 
 /**
- * Create By : Ashwin Rathore on 24/07/24
- *
- * @author : arathore@tracelin.com
- * @date :  24/07/24
+ * Author : Ashwin Rathore
+ * Date : 25-07-2024
+ * Email - ashwin.rathore001@gmail.com
  */
 public class ProductPageTest {
 }

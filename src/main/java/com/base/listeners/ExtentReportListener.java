@@ -1,3 +1,9 @@
+/**
+ * Author : Ashwin Rathore
+ * Date : 25-07-2024
+ * Email - ashwin.rathore001@gmail.com
+ */
+
 package com.base.listeners;
 
 import java.io.IOException;
@@ -43,7 +49,7 @@ public class ExtentReportListener implements ITestListener {
         }
         extentReports = new ExtentReports();
         ExtentSparkReporter reporter = new ExtentSparkReporter(OUTPUT_FOLDER + FILE_NAME);
-        reporter.config().setReportName("Digital Recalls Test Results");
+        reporter.config().setReportName("Test Results");
         extentReports.attachReporter(reporter);
         extentReports.setSystemInfo("Author", PropertyReader.getProperty("Author"));
         extentReports.setSystemInfo("Team", PropertyReader.getProperty("Team"));

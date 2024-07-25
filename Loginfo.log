@@ -86,3 +86,11 @@
 2024-07-25 09:27:17,143 INFO  [Log] Headless - false 
 2024-07-25 09:27:29,090 INFO  [Log] Logo is Correct 
 2024-07-25 09:27:29,991 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 19:31:25,547 INFO  [Log] Launching Browser - chrome 
+2024-07-25 19:31:25,557 INFO  [Log] Headless - false 
+2024-07-25 19:32:18,580 INFO  [Log] Logo is Correct 
+2024-07-25 19:32:19,853 INFO  [Log] Product IPhone 13 is searched Successfully 
+2024-07-25 19:54:36,300 INFO  [Log] Launching Browser - chrome 
+2024-07-25 19:54:36,324 INFO  [Log] Headless - false 
+2024-07-25 19:54:51,674 INFO  [Log] Logo is Correct 
+2024-07-25 19:54:53,613 INFO  [Log] Product IPhone 13 is searched Successfully 
